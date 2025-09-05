@@ -39,4 +39,21 @@ This site was built using:
    ```bash
    git clone https://github.com/yourusername/serenity-funeral-home.git
 
+---
+## 📞 Contact  
+
+**Serenity & Home Funeral Services**  
+
+- 📍 123 Memorial Drive, Peaceful Valley, Nyeri 10100  
+- 📧 info@serenityhomefuneralservices.com  
+- ☎️ (254) 740-779-721 (24/7 Support Line)  
+
+---
+
+## ⚖️ License  
+
+© 2025 Serenity & Home Funeral Services. All rights reserved.  
+Licensed Funeral Home.  
+
+---
 
